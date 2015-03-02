@@ -1,3 +1,9 @@
+'''
+Author:Titus Nanda Kumara
+Simple HTTP server supports Multiple connections
+
+'''
+
 import sys
 import SocketServer
 import BaseHTTPServer
